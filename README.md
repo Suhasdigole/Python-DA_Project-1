@@ -1,4 +1,4 @@
-# Python-Project
+# Python-Data-Analysis_Project
 Python Data analysis project for IPL data of 2021-2022
 This is a Python based Data analysis project for the dataset of IPL 2021-2022.
 In this project we follow all the steps of Data-Cleaning, Data-Manipulation and Data-analysis and Visualisation.
